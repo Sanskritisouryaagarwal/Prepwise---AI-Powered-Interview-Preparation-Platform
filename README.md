@@ -4,6 +4,8 @@
 
 Whether you're preparing for technical, behavioral, or HR interviews, Prepwise offers real-time feedback, voice interaction, and performance analytics to help you grow confidently and efficiently.
 
+![Untitled design](https://github.com/user-attachments/assets/cc356436-c541-41ee-95a9-1c4a46f6fb65)
+
 ---
 
 ## 📌 Table of Contents
@@ -29,6 +31,7 @@ Prepwise simulates realistic AI-driven interviews using voice and NLP technologi
 - Track interview history in a clean dashboard interface
 
 Whether you're just starting your career or preparing for senior-level roles, Prepwise adapts to your level and helps you build confidence through practice.
+![Untitled design (2)](https://github.com/user-attachments/assets/b6b67068-fb05-4626-89a5-5ee0217455d0)
 
 ---
 
@@ -52,6 +55,7 @@ Whether you're just starting your career or preparing for senior-level roles, Pr
 - 💡 **Question Generation**: Dynamic, AI-driven question sets for various roles and domains
 - 📱 **Mobile Friendly**: Fully responsive design for both desktop and mobile use
 - 🧩 **Modular Architecture**: Clean, scalable, and reusable codebase for easy maintenance
+![Untitled design (1)](https://github.com/user-attachments/assets/eb79e3e7-f73e-48dd-bf73-ad449d6972a5)
 
 ---
 
